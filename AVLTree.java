@@ -10,8 +10,6 @@ import java.util.List;
  * distinct integer keys and info
  *
  */
-// Alon Harell, Username alonharell, ID 318509403
-// Yaron Gitelman, Username yaron1, ID 211673496
 public class AVLTree {
 	
 	public IAVLNode Ext = new AVLNode(); //Will represent external leaves for the tree.
